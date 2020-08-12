@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "algular-weather"
+    }
+  },
+  "defaultProject": "algular-weather",
+  "cli": {
+    "analytics": "cafa8882-0e25-48c9-a014-db56c494060a"
+  }
 }
